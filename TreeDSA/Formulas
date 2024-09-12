@@ -1,0 +1,7 @@
+
+
+min no.of nodes in binary tree => h = n+1;
+max no.of nodes in binary tree => h = a(r^n - 1)/r-1;
+
+max height of bs with 'n' nodes => maxHeight  = n-1 ;
+min height of bs with 'n' nodes => minHeight  = log2(n-1) -1;
